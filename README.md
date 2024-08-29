@@ -112,8 +112,8 @@ If you find this project useful or use it in a commercial environment, please co
 
 ## Changelog
 
-- **0.1.0** - Aug 28, 2024
-  - Initial release of the PorkbunSdk library with support for Domain, DNS, and SSL management.
+- **1.0.0** - Aug 29, 2024
+  - Initial release of the `PorkbunSdk` library with support for Domain, DNS, and SSL management.
 
 ## License
 
